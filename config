@@ -185,3 +185,6 @@ bar {
         status_command i3status
 }
 
+
+exec_always feh --bg-scale /home/manas/Downloads/wallpaper.jpg
+
