@@ -188,3 +188,5 @@ bar {
 
 exec_always feh --bg-scale /home/manas/Downloads/wallpaper.jpg
 
+bindsym $mod+shift+x exec i3lock
+
